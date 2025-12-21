@@ -1,4 +1,4 @@
-# lab2-keygen-and-patcher
+# keygen-and-patcher
 
 Advanced Linux lab 2 (reverse)
 
